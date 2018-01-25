@@ -1,0 +1,19 @@
+#success_message{ display: none;}
+
+.sample {
+background: #0c5859;
+color: #efefef;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #eee;
+text-shadow:none;
+align-items: center;
+}
+
+
+.container {
+  padding: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+
+}
